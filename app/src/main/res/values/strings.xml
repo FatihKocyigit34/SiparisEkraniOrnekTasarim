@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fatih Express</string>
+    <string name="adres_2">Adres-2</string>
+    <string name="ulke">Ülke</string>
+    <string name="isim_soyisim">İsim Soyisim</string>
+    <string name="adres_basligi">Adres Başlığı</string>
+    <string name="adres_1">Adres-1</string>
+    <string name="il">İl</string>
+    <string name="ilce">İlçe</string>
+    <string name="mahalle">Mahalle</string>
+    <string name="posta_kodu">Posta Kodu</string>
+    <string name="telefon_no">Telefon Numarası</string>
+    <string name="tc_kimlik_numarası">Tc Kimlik Numarası</string>
+    <string name="btn_kaydet">Kaydet</string>
+    <string name="btn_iptalet">İptal et</string>
+</resources>
